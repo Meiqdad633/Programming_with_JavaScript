@@ -1,4 +1,4 @@
-# Coursera Front-End Course Exercises
+# Coursera Meta Front-End Development Course Exercises
 # Programming with JavaScript
 
 This repository contains exercises and code snippets from the Introduction_to_front_end_Development course on Coursera.
@@ -7,7 +7,7 @@ Next Course is available in other Repository
 
 ## Course Information
 
-- **Course Title:** [Introduction_to_front_end_Development](#) 
+- **Course Title:** [Programming with JavaScript](#) 
 - **Provider:** Coursera
 
 ## Folder Structure
